@@ -83,13 +83,13 @@
 ## My GitHub Stats :bar_chart:
 
 <p>
-  <a href="https://github.com/divyakush2006">
-    <img height="165em" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=divyakush2006&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=transparent" />
-    <img height="165em" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyakush2006&include_all_commits=true&hide_border=true&layout=compact&theme=transparent&langs_count=8" />
-  </a>
+  <img alt="Repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=divyakush2006&theme=transparent" height="180em" />
+  <img alt="Most commit language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=divyakush2006&theme=transparent" height="180em" />
 </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=divyakush2006&hide_border=true&background=00000000&theme=transparent" alt="streak" />
+<p>
+  <img alt="Productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=divyakush2006&theme=transparent&utcOffset=5.5" height="180em" />
+</p>
 
 <!-- ░░░ contribution snake ░░░ -->
 <picture>
