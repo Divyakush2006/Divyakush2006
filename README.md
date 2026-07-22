@@ -1,6 +1,6 @@
 <!-- ░░░ dynamic typing effect ░░░ -->
 <div align="center">
-  <a href="https://divyakush2006.github.io/divyakush-resume/">
+  <a href="https://divyakush.is-a.dev">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=520&lines=Hi%2C+I'm+Divyakush+Punjabi;Full-Stack+Developer+%26+AI+Engineer;Software+Engineering+Lead+%40+LMX+Labs;I+build+LLM-powered%2C+production+systems&center=true&size=24" alt="Typing SVG" />
   </a>
 </div>
@@ -9,7 +9,7 @@
 # :man_technologist:&nbsp; Hi, I'm Divyakush Punjabi — a Full-Stack & AI Engineer 🚀 from India.
 
 <!-- ░░░ badges ░░░ -->
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=googlechrome&logoColor=white)](https://divyakush2006.github.io/divyakush-resume/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=googlechrome&logoColor=white)](https://divyakush.is-a.dev)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyakush-punjabi)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:divyakushpunjabi@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=divyakush2006&label=Profile%20Views&color=0e75b6&style=flat)
